@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADT-Lec.iml" filepath="$PROJECT_DIR$/ADT-Lec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expression/expression.iml" filepath="$PROJECT_DIR$/expression/expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/friends/friends.iml" filepath="$PROJECT_DIR$/friends/friends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icecream3/icecream3.iml" filepath="$PROJECT_DIR$/icecream3/icecream3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icecream4/icecream4.iml" filepath="$PROJECT_DIR$/icecream4/icecream4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/id_request/id_request.iml" filepath="$PROJECT_DIR$/id_request/id_request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integer_selection_sort/integer_selection_sort.iml" filepath="$PROJECT_DIR$/integer_selection_sort/integer_selection_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integer_sorting/integer_sorting.iml" filepath="$PROJECT_DIR$/integer_sorting/integer_sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_queue1/job_queue1.iml" filepath="$PROJECT_DIR$/job_queue1/job_queue1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job_queue2/job_queue2.iml" filepath="$PROJECT_DIR$/job_queue2/job_queue2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like/like.iml" filepath="$PROJECT_DIR$/like/like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maze/maze.iml" filepath="$PROJECT_DIR$/maze/maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge_sort/merge_sort.iml" filepath="$PROJECT_DIR$/merge_sort/merge_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parentheses/parentheses.iml" filepath="$PROJECT_DIR$/parentheses/parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick_sort/quick_sort.iml" filepath="$PROJECT_DIR$/quick_sort/quick_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recur_practice/recur_practice.iml" filepath="$PROJECT_DIR$/recur_practice/recur_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resistor/resistor.iml" filepath="$PROJECT_DIR$/resistor/resistor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/river_crossing_puzzle/river_crossing_puzzle.iml" filepath="$PROJECT_DIR$/river_crossing_puzzle/river_crossing_puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting_election/sorting_election.iml" filepath="$PROJECT_DIR$/sorting_election/sorting_election.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spreadsheet/spreadsheet.iml" filepath="$PROJECT_DIR$/spreadsheet/spreadsheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topscore/topscore.iml" filepath="$PROJECT_DIR$/topscore/topscore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_caching/web_caching.iml" filepath="$PROJECT_DIR$/web_caching/web_caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zooma1_flexiarray/zooma1_flexiarray.iml" filepath="$PROJECT_DIR$/zooma1_flexiarray/zooma1_flexiarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zooma1_listnode/zooma1_listnode.iml" filepath="$PROJECT_DIR$/zooma1_listnode/zooma1_listnode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zooma2_flexiarray/zooma2_flexiarray.iml" filepath="$PROJECT_DIR$/zooma2_flexiarray/zooma2_flexiarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zooma2_listnode/zooma2_listnode.iml" filepath="$PROJECT_DIR$/zooma2_listnode/zooma2_listnode.iml" />
+    </modules>
+  </component>
+</project>
